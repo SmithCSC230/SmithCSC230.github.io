@@ -1,0 +1,51 @@
+term:
+  name: "Spring 2026"
+  start_date: 2026-01-27
+  meeting_days:
+    - Tuesday
+    - Thursday
+  assignment_due_day: "Tuesday"
+  assignment_due_time: "11:59 PM"
+  skip_ranges:
+    - start: 2026-03-14
+      end: 2026-03-22
+      label: "Spring recess"
+  special_dates:
+    - date: 2026-02-26
+      label: "Rally Day (afternoon classes canceled)"
+
+# Group sessions into modules shown on the Calendar page.
+# Each module consumes the next N sessions in order.
+modules:
+  - title: "Week 01"
+    sessions: 2
+  - title: "Week 02"
+    sessions: 2
+
+# Slides are expected to live in assets/slides.
+slides_dir: "assets/slides"
+
+# Assignments are optional; use gradescope_url to add submission links.
+assignments: []
+# Example:
+# assignments:
+#   - id: hw1
+#     title: "HW 1"
+#     gradescope_url: "https://www.gradescope.com/courses/XXXX/assignments/YYYY"
+
+# Sessions are assigned to meeting dates automatically starting at term.start_date.
+sessions:
+  - title: "Course intro + tooling"
+    type: "lecture"
+    slides: "lecture-01.pdf"
+    readings: ["1.1"]
+  - title: "Setup clinic"
+    type: "lab"
+    slides: "lab-01.pdf"
+  - title: "Java basics"
+    type: "lecture"
+    slides: "lecture-02.pdf"
+    readings: ["1.2", "2.1"]
+  - title: "Data + objects"
+    type: "lecture"
+    slides: "lecture-03.pdf"
