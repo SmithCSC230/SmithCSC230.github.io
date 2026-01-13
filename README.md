@@ -32,6 +32,39 @@ Getting started with Just the Class is simple.
 1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
 1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
 
+## Course workflow (CSC 210)
+
+### Schedule generation
+
+The calendar page reads module files from `_modules/`. Those modules are generated from `_data/schedule.yml`.
+
+To regenerate modules after editing the data file:
+
+```bash
+ruby scripts/generate_schedule.rb
+```
+
+### Slides (PPTX + PDF)
+
+- Source slides: `content/slides-source/` (PowerPoint `.pptx`)
+- Web PDFs: `assets/slides/` (exported PDFs linked from the schedule)
+
+Large binary files are tracked via Git LFS. After cloning, run:
+
+```bash
+git lfs install
+```
+
+### Gradescope links
+
+Add assignment entries in `_data/schedule.yml` under `assignments`, then reference them by `id` in a session’s `assignments_due` list. The generator will add a "Gradescope" link next to the due label.
+You can also set `term.assignment_due_day` and `term.assignment_due_time` to stamp due labels like "(Tuesday 11:59 PM)".
+
+### Updating dates each semester
+
+1. Update `term.start_date` and any `skip_ranges`/`special_dates` in `_data/schedule.yml`.
+2. Run `ruby scripts/generate_schedule.rb` to rebuild `_modules/*.md`.
+
 Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
 
 ### Local development environment
