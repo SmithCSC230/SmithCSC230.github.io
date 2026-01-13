@@ -17,7 +17,7 @@ title: CSC 210
 tagline: Data Structures
 description: Course website for CSC 210 (Data Structures)
 author: Smith College CS
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://smithcsc210.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links: {}
-footer_content:
+footer_content: 'Site infrastructure based on <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>.'
 
 # Collections for website data
 collections:
