@@ -2,6 +2,8 @@ term:
   name: "Spring 2026"
   start_date: 2026-01-26
   end_date: 2026-05-01
+  slides_base_url: "https://www.science.smith.edu/~hrando/csc210/slides/"
+  slides_pptx_base_url: "https://www.science.smith.edu/~hrando/csc210/slides/"
   meeting_days:
     - Tuesday
     - Thursday

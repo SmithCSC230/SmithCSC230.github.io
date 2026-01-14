@@ -81,6 +81,11 @@ ruby scripts/generate_schedule.rb
 To handle a one-off closure like Mountain Day, add the date to `_data/term.yml` under `skip_dates`,
 then rerun the two scripts to shift the remaining topics forward.
 
+### Hosting slides externally
+
+If you host slides on Smith’s server, set `term.slides_base_url` and `term.slides_pptx_base_url` in
+`_data/term.yml`. The generator will link each topic to the PDF and add a PPTX link automatically.
+
 This template has been used for a variety of course websites across institutions.
 
 ### Local development environment
