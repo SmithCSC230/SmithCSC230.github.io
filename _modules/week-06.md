@@ -1,11 +1,10 @@
 ---
-title: "Week 05"
+title: "Week 06"
 ---
 
-Feb 26
-: Recursion I
-  : Rally Day (afternoon classes canceled)
-: **A4: DIY Calculator due (Tuesday 11:59 PM)**{: .label .label-red }
-
 Mar  3
-: Recursion II
+: [Recursion II](https://www.science.smith.edu/~hrando/csc210/slides/12-sorting-intro.pptx)
+
+Mar  5
+: [No Class: Fall Break](https://www.science.smith.edu/~hrando/csc210/slides/13-sorting-ds-specifics.pptx)
+  : [PPTX](https://www.science.smith.edu/~hrando/csc210/slides/13b-comparables.pptx)

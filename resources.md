@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-nav_order: 8
+nav_order: 9
 description: Course resources and references.
 ---
 

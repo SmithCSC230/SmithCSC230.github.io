@@ -2,11 +2,10 @@ term:
   name: "Spring 2026"
   start_date: 2026-01-26
   end_date: 2026-05-01
-  slides_base_url: "https://www.science.smith.edu/~hrando/csc210/slides/"
   slides_pptx_base_url: "https://www.science.smith.edu/~hrando/csc210/slides/"
   meeting_days:
-    - "Thursday"
     - "Tuesday"
+    - "Thursday"
   assignment_due_day: "Tuesday"
   assignment_due_time: "11:59 PM"
   skip_ranges:
@@ -16,6 +15,12 @@ term:
   skip_dates:
     []
   special_dates:
+    - date: 2026-02-19
+      label: "Midterm 1 weekend: Feb 20–22 (asynchronous)"
+    - date: 2026-03-26
+      label: "Midterm 2 weekend: Mar 27–29 (asynchronous)"
+    - date: 2026-04-23
+      label: "Midterm 3 weekend: Apr 24–26 (asynchronous)"
     - date: 2026-02-26
       label: "Rally Day (afternoon classes canceled)"
     - date: 2026-05-01
@@ -26,8 +31,6 @@ term:
       label: "Final exams end (3:00 PM)"
 
 modules:
-  - title: "Week 00"
-    sessions: 1
   - title: "Week 01"
     sessions: 2
   - title: "Week 02"
@@ -55,6 +58,8 @@ modules:
   - title: "Week 13"
     sessions: 2
   - title: "Week 14"
+    sessions: 2
+  - title: "Week 15"
     sessions: 2
 
 slides_dir: "assets/slides"
@@ -87,97 +92,123 @@ sessions:
   -
     title: "Introduction / Intro to Arrays"
     type: "lecture"
+    slides: "01-intro.pptx"
   -
     title: "Arrays & Index Access"
     type: "lecture"
     assignments_due:
       - id: "a0"
+    slides: "03-encodinginfo.pptx"
   -
     title: "Array Edits"
     type: "lecture"
+    slides: "04-arrays.pptx"
   -
     title: "Linked Lists"
     type: "lecture"
     assignments_due:
       - id: "a1"
+    slides: "05-loops-copy-iterators.pptx"
   -
     title: "Add & Remove"
     type: "lecture"
+    slides: "06-linkedlists.pptx"
   -
     title: "Lists & Iterators"
     type: "lecture"
     assignments_due:
       - id: "a2"
+    slides: "07-listedits.pptx"
   -
     title: "Exceptions/List Wrap-Up"
     type: "lecture"
+    slides: "08-lists+iterators.pptx"
+    slides_extra:
+      - "08S-shunt-yard.pptx"
   -
     title: "Stacks, Queues Deques"
     type: "lecture"
     assignments_due:
       - id: "a3"
+    slides: "09-stacks-queues-deques.pptx"
   -
     title: "SQD Implementation"
     type: "lecture"
+    slides: "10-recursion.pptx"
   -
     title: "Recursion I"
     type: "lecture"
     assignments_due:
       - id: "a4"
+    slides: "11-recursion2.pptx"
   -
     title: "Recursion II"
     type: "lecture"
+    slides: "12-sorting-intro.pptx"
   -
     title: "No Class: Fall Break"
     type: "lecture"
+    slides: "13-sorting-ds-specifics.pptx"
+    slides_extra:
+      - "13b-comparables.pptx"
   -
     title: "Sorting"
     type: "lecture"
-    notes:
-      - "**Midterm 1 at Science Center**{: .label .label-blue }"
+    slides: "14-maps.pptx"
   -
     title: "Hash Maps"
     type: "lecture"
     assignments_due:
       - id: "a5"
+    slides: "15-sets.pptx"
   -
     title: "Hash Map Implementation"
     type: "lecture"
+    slides: "16-hashtable-impl.pptx"
   -
     title: "Binary Trees"
     type: "lecture"
     assignments_due:
       - id: "a6"
+    slides: "17-trees-intro.pptx"
   -
     title: "Binary Search Trees"
     type: "lecture"
+    slides: "18-binary-search-trees.pptx"
   -
     title: "Tree Implementations"
     type: "lecture"
     assignments_due:
       - id: "a7"
+    slides: "18-heaps.pptx"
   -
     title: "No Class: Cromwell Day"
     type: "lecture"
+    slides: "19-graphs-intro.pptx"
   -
     title: "Heaps"
     type: "lecture"
+    slides: "21-graphs-implementation.pptx"
   -
     title: "Tree Wrap-Up"
     type: "lecture"
+    slides: "22-graph-traversal.pptx"
   -
     title: "Graph Definitions"
     type: "lecture"
     assignments_due:
       - id: "a8"
+    slides: "23-shortest-path.pptx"
   -
     title: "Graph Representations"
     type: "lecture"
+    slides: "24-ds-mashups.pptx"
   -
     title: "Graph Traversal"
     type: "lecture"
     assignments_due:
       - id: "a9"
+    slides: "25-third-party.pptx"
   -
     title: "No Class: Thanksgiving"
     type: "lecture"
@@ -187,8 +218,6 @@ sessions:
   -
     title: "(Extra class for Mountain Day/Catchup)"
     type: "lecture"
-    notes:
-      - "**Midterm 2 at Science Center**{: .label .label-blue }"
   -
     title: "Final Exam/Semester Review"
     type: "lecture"

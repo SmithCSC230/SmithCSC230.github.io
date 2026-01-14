@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Assignments
-nav_order: 6
+nav_order: 7
 description: Assignment handouts and starter files.
 ---
 
 # Assignments
+
+## Important Links
+- [Course Gradescope hub] (https://www.gradescope.com/courses/1225360)
+- [Request a 72-hour extension here](https://docs.google.com/forms/d/e/1FAIpQLSc3QMRpoOr5WqiYz2cQlBssQPz4uA9wtlrXh5H2VrlfYfsfrg/viewform?usp=header)
 
 ## Assignment bundles
 

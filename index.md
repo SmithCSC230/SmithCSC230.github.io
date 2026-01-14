@@ -12,6 +12,8 @@ Welcome to CSC 210. This site contains the syllabus, schedule, assignments, exam
 ## Start here
 
 - [Syllabus](syllabus.md)
+- [FAQ](faq.md)
+- [Contact](contact.md)
 - [Schedule](schedule.md)
 - [Calendar](calendar.md)
 - [Assignments](assignments.md)

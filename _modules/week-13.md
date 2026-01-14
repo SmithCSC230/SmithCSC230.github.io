@@ -1,10 +1,9 @@
 ---
-title: "Week 12"
+title: "Week 13"
 ---
-
-Apr 23
-: Graph Traversal
-: **A9: Graph Representations due (Tuesday 11:59 PM)**{: .label .label-red }
 
 Apr 28
 : No Class: Thanksgiving
+
+Apr 30
+: Shortest Path

@@ -1,10 +1,10 @@
 ---
-title: "Week 06"
+title: "Week 07"
 ---
 
-Mar  5
-: No Class: Fall Break
-
 Mar 10
-: Sorting
-  : **Midterm 1 at Science Center**{: .label .label-blue }
+: [Sorting](https://www.science.smith.edu/~hrando/csc210/slides/14-maps.pptx)
+
+Mar 12
+: [Hash Maps](https://www.science.smith.edu/~hrando/csc210/slides/15-sets.pptx)
+: **A5: Maze Runner due (Tuesday 11:59 PM)**{: .label .label-red }

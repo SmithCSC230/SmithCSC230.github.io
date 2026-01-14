@@ -1,9 +1,6 @@
 ---
-title: "Week 14"
+title: "Week 15"
 ---
-
-May  7
-: Final Exam/Semester Review
 
 May 12
 : Demo Day

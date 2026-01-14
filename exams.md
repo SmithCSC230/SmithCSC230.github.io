@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exams
-nav_order: 7
+nav_order: 8
 description: Past exams and answer keys.
 ---
 

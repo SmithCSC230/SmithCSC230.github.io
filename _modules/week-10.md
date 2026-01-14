@@ -1,10 +1,9 @@
 ---
-title: "Week 09"
+title: "Week 10"
 ---
 
-Apr  2
-: Tree Implementations
-: **A7: Guessing Game due (Tuesday 11:59 PM)**{: .label .label-red }
-
 Apr  7
-: No Class: Cromwell Day
+: [No Class: Cromwell Day](https://www.science.smith.edu/~hrando/csc210/slides/19-graphs-intro.pptx)
+
+Apr  9
+: [Heaps](https://www.science.smith.edu/~hrando/csc210/slides/21-graphs-implementation.pptx)
