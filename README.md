@@ -67,6 +67,20 @@ You can also set `term.assignment_due_day` and `term.assignment_due_time` to sta
 1. Update `term.start_date` and any `skip_ranges`/`special_dates` in `_data/schedule.yml`.
 2. Run `ruby scripts/generate_schedule.rb` to rebuild `_modules/*.md`.
 
+### Topics-driven calendar workflow
+
+1. Edit `content/Schedule-CSC210-Topics.csv` with Week/Day/Topic entries.
+2. Update `_data/term.yml` with the semester start date, meeting days, and skip dates/ranges.
+3. Run:
+
+```
+ruby scripts/import_schedule_csv.rb
+ruby scripts/generate_schedule.rb
+```
+
+To handle a one-off closure like Mountain Day, add the date to `_data/term.yml` under `skip_dates`,
+then rerun the two scripts to shift the remaining topics forward.
+
 This template has been used for a variety of course websites across institutions.
 
 ### Local development environment

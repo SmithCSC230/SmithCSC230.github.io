@@ -1,0 +1,23 @@
+term:
+  name: "Spring 2026"
+  start_date: 2026-01-26
+  end_date: 2026-05-01
+  meeting_days:
+    - Tuesday
+    - Thursday
+  assignment_due_day: "Tuesday"
+  assignment_due_time: "11:59 PM"
+  skip_ranges:
+    - start: 2026-03-14
+      end: 2026-03-22
+      label: "Spring recess"
+  skip_dates: []
+  special_dates:
+    - date: 2026-02-26
+      label: "Rally Day (afternoon classes canceled)"
+    - date: 2026-05-01
+      label: "Last day of classes"
+    - date: 2026-05-05
+      label: "Final exams begin"
+    - date: 2026-05-08
+      label: "Final exams end (3:00 PM)"
