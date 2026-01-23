@@ -2,7 +2,7 @@
 layout: page
 title: Topics
 description: Listing of course topics by date.
-nav_order: 6
+nav_order: 4
 ---
 
 # Topics

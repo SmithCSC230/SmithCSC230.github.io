@@ -2,9 +2,8 @@
 title: "Week 14"
 ---
 
-May  5
-: (Extra class for Mountain Day/Catchup)
-  : Final exams begin
+Apr 28
+: Final Project Presentations
 
-May  7
-: Final Exam/Semester Review
+Apr 30
+: Final Project Presentations

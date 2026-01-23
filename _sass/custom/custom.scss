@@ -22,6 +22,22 @@ details {
   @extend .mb-4;
 }
 
+.label-exam {
+  background-color: #0b3d91;
+  border: 1px solid #08306b;
+  color: #ffffff;
+}
+
+.label-exam-outline {
+  background-color: transparent;
+  border: 1px solid #0b3d91;
+  color: #0b3d91;
+}
+
+.label-exam:hover {
+  background-color: #08306b;
+}
+
 summary {
   @extend .btn, .btn-outline;
 

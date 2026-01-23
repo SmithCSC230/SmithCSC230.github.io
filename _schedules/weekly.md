@@ -23,15 +23,15 @@ schedule:
   - name: Tuesday
     events:
       - name: Lecture
-        start: 10:50 AM
-        end: 12:05 PM
-        location: Ford 342
+        start: 2:45 PM
+        end: 4:00 PM
+        location: Seelye 106
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
-        start: 10:50 AM
-        end: 12:05 PM
-        location: Ford 342
+        start: 2:45 PM
+        end: 4:00 PM
+        location: Seelye 106
   - name: Friday
 ---
