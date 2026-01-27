@@ -17,11 +17,12 @@ description: Course policies and expectations.
 - Primary Instructor: Dr. Halie Rando (she/her) (Prof. Rando, Dr. Rando, Halie, or Prof. Halie)
 - Email: hrando@smith.edu
 - Office: Bass Hall 109
-- Office hours: Monday 3:30 – 4:30 (Bass 109), Wednesday 10:00 – 11:00 (Bass 109), Friday 2:00 – 3:00
+- Office hours: Monday 3:30 – 4:30, Wednesday 10:00 – 11:00, Friday 2:00 – 3:00
 
 Welcome to CSC230: Introduction to Database Systems! This course explores how and why we store data, how database systems are designed, and how to choose appropriate designs for real-world needs.
 
 ## Course Description and Goals
+This course is organized around what information systems can and cannot know.
 Data storage and access is fundamental to computing. In Data Structures (CSC210 or CSC212), you learned strategies for storing and accessing information in RAM. In this course, we consider when, why, and how to store data more permanently. Secure, reliable, and fast access to data is fundamental to modern life, including commerce, social media, government, research, and more. We will investigate how the design and use of database systems has evolved over the past 50+ years, with an emphasis on the challenges associated with the big data revolution. This semester, our course will focus on real-world challenges in storing and collecting data relevant to the needs of researchers at Smith and organizations in the community.
 
 ### Learning Goals
