@@ -7,8 +7,12 @@ Mar 10
 
 Mar 12
 : Joining
+: **Take-Home Midterm Du Friday 11:59PM**{: .label }
 
-Mar 16 - 20
+Mar 17
+: **Spring Break (no classes)**{: .label }
+
+Mar 19
 : **Spring Break (no classes)**{: .label }
 
 Mar 24

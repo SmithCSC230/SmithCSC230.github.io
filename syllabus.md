@@ -22,8 +22,8 @@ description: Course policies and expectations.
 Welcome to CSC230: Introduction to Database Systems! This course explores how and why we store data, how database systems are designed, and how to choose appropriate designs for real-world needs.
 
 ## Course Description and Goals
-This course is organized around what information systems can and cannot know.
 Data storage and access is fundamental to computing. In Data Structures (CSC210 or CSC212), you learned strategies for storing and accessing information in RAM. In this course, we consider when, why, and how to store data more permanently. Secure, reliable, and fast access to data is fundamental to modern life, including commerce, social media, government, research, and more. We will investigate how the design and use of database systems has evolved over the past 50+ years, with an emphasis on the challenges associated with the big data revolution. This semester, our course will focus on real-world challenges in storing and collecting data relevant to the needs of researchers at Smith and organizations in the community.
+This course is organized around what information systems can and cannot know.
 
 ### Learning Goals
 Upon completing this course, students will:
@@ -100,6 +100,8 @@ There are four forms of assessment in this course:
 - Final project
 - Class participation
 
+The take-home exam is due Thursday, March 12, 2026.
+
 | Category              | Percentage |
 | --------------------- | ---------- |
 | Homework assignments  | 50%        |
@@ -132,7 +134,7 @@ TA hours are a great resource for clarifying concepts, validating approaches, an
 ## Lateness Policy
 CSC230 features frequent assignments, and many topics build week to week. Completing work on time keeps you on track, but we also recognize that schedules get busy. Use the extension policy when you need a little flexibility, and plan ahead if you anticipate a conflict.
 
-You can request a 72-hour no-questions-asked extension via the Google Form (also linked from Moodle). You must submit this form prior to the deadline of the assignment. If you need an extension beyond 72 hours (under extreme circumstances), please contact the instructor via email.
+You can request a 72-hour no-questions-asked extension via the Google Form (also linked from Moodle): https://docs.google.com/forms/d/e/1FAIpQLSdYfhC5fb3JWVF95fV02CaynFACyYjjUsCVjxDGlU9ZbEbaaQ/viewform?usp=header. You must submit this form prior to the deadline of the assignment. If you need an extension beyond 72 hours (under extreme circumstances), please contact the instructor via email.
 
 Please note that your extension will not be valid if you do not adhere precisely to these procedures. Work received after the deadline without an extension or after the extension deadline will be treated as a regrade (i.e., graded when time permits, with no guarantee of feedback before the end of the semester).
 

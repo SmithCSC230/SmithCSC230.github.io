@@ -8,6 +8,8 @@ description: Past exams and answer keys.
 
 # Exams
 
+The take-home exam is due Thursday, March 12, 2026.
+
 ## Past exams
 
 {% assign exam_files = site.static_files | where_exp: "file", "file.path contains '/content/Exams/'" %}
@@ -20,7 +22,3 @@ description: Past exams and answer keys.
 {% else %}
 Exams will be posted here.
 {% endif %}
-
-## Index
-
-- [Exam index (CSV)](content/Exams/index.csv)

@@ -20,6 +20,11 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Office Hours
+        start: 3:30 PM
+        end: 4:30 PM
+        location: Bass 109
   - name: Tuesday
     events:
       - name: Lecture
@@ -27,6 +32,11 @@ schedule:
         end: 4:00 PM
         location: Seelye 106
   - name: Wednesday
+    events:
+      - name: Office Hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Bass 109
   - name: Thursday
     events:
       - name: Lecture
@@ -34,4 +44,8 @@ schedule:
         end: 4:00 PM
         location: Seelye 106
   - name: Friday
+    events:
+      - name: Office Hours
+        start: 2:00 PM
+        end: 3:00 PM
 ---

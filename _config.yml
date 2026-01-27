@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSC 210
-tagline: Data Structures
-description: Course website for CSC 210 (Data Structures)
+title: CSC 230
+tagline: Introduction to Database Systems
+description: Course website for CSC 230 (Introduction to Database Systems)
 author: Smith College CS
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://smithcsc210.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://smithcsc230.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
