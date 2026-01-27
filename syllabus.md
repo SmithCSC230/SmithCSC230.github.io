@@ -102,12 +102,12 @@ There are four forms of assessment in this course:
 
 The take-home exam is due Thursday, March 12, 2026.
 
-| Category              | Percentage |
-| --------------------- | ---------- |
-| Homework assignments  | 50%        |
-| Midterm exam          | 10%        |
-| Final project         | 30%        |
-| Class participation   | 10%        |
+| Category               | Percentage |
+| ---------------------- | ---------- |
+| Homework assignments   | 50%        |
+| In-class participation | 12.5%      |
+| Midterm exam           | 12.5%      |
+| Final project          | 25%        |
 
 ## Final Project
 The final project is a particularly fun and unique component of CSC 230. In a few weeks, you will be assigned to a group and matched with a stakeholder who has data management needs beyond what their current infrastructure can support. Oftentimes, their data is stored in Excel spreadsheets or similar and they need a relational database, but different projects have different needs. We will do the best to match you with a project that fits your interests/preferences.
