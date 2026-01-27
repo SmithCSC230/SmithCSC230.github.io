@@ -7,6 +7,7 @@ Jan 27
 
 Jan 29
 : Asking Questions with Fragmented Information
+: [Submit Java Class Here](https://www.gradescope.com/courses/1239414/assignments/7552399)
 
 Feb 3
 : Information Loss
