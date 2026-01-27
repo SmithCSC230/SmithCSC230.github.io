@@ -3,7 +3,7 @@ title: "Unit 1: Why Representations Matter"
 ---
 
 Jan 27
-: [Intro / Information != Data](https://www.science.smith.edu/~hrando/csc210/slides/s26/L01-intro.pptx)
+: [Intro / Information != Data](https://www.science.smith.edu/~hrando/csc230/slides/s26/L01-intro.pptx)
 
 Jan 29
 : Asking Questions with Fragmented Information
