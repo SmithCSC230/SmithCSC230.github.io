@@ -23,25 +23,57 @@ details {
 }
 
 .label-exam {
-  background-color: #0b3d91;
-  border: 1px solid #08306b;
+  background-color: #0f6a6a;
+  border: 1px solid #0a4b4b;
   color: #ffffff;
 }
 
 .label-exam-outline {
   background-color: transparent;
-  border: 1px solid #0b3d91;
-  color: #0b3d91;
+  border: 1px solid #0f6a6a;
+  color: #0f6a6a;
 }
 
 .label-exam:hover {
-  background-color: #08306b;
+  background-color: #0a4b4b;
 }
 
 summary {
   @extend .btn, .btn-outline;
 
   width: 100%;
+}
+
+.site-nav .nav-list > .nav-list-item > .nav-list-link {
+  background-color: #dfecea;
+  border-top: 1px solid #c6d5d1;
+  color: #0f3d3e;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  padding: 0.6rem 1rem;
+  text-transform: uppercase;
+}
+
+.site-nav .nav-list > .nav-list-item:first-child > .nav-list-link {
+  border-top: none;
+}
+
+.site-nav .nav-list > .nav-list-item > .nav-list {
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.site-nav .nav-list > .nav-list-item > .nav-list .nav-list-item > .nav-list-link {
+  color: #1f2933;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.site-nav .nav-list > .nav-list-item > .nav-list .nav-list-item > .nav-list-link:hover {
+  background-color: #e6f0ee;
 }
 
 .main-content {

@@ -29,7 +29,7 @@ exclude:
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.11.1
-color_scheme: light
+color_scheme: csc230
 search_enabled: true
 heading_anchors: true
 permalink: pretty
