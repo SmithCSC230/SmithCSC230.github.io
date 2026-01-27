@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Resources
-nav_order: 9
+nav_order: 1
+parent: Support
 description: Course resources and references.
 ---
 

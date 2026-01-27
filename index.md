@@ -2,12 +2,12 @@
 layout: page
 title: Home
 nav_order: 1
-description: CSC 210 course homepage.
+description: CSC 230 course homepage.
 ---
 
-# CSC 210: Data Structures
+# CSC 230: Introduction to Database Systems
 
-Welcome to CSC 210. This site contains the syllabus, schedule, assignments, exams, and course resources.
+Welcome to CSC 230. This site contains the syllabus, schedule, assignments, and course resources. Assignments are posted on [Gradescope](https://www.gradescope.com/courses/1239414).
 
 ## Start here
 

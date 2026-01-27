@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Exams
-nav_order: 8
+nav_order: 2
+parent: Deliverables
 description: Past exams and answer keys.
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: FAQ
-nav_order: 3
+nav_order: 2
+parent: Support
 description: Common questions about exams, assignments, collaboration, and policies.
 ---
 

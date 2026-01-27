@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Contact
-nav_order: 9
+nav_order: 3
+parent: Support
 description: Communication norms and how to reach the course staff.
 ---
 
@@ -11,7 +12,6 @@ description: Communication norms and how to reach the course staff.
 The course website is the source of truth for policies, deadlines, and updates.
 
 ## Where to ask what
-- GitHub Issues (or PRs) are preferred for assignment questions and clarifications.
 - Slack is for general course questions, peer help, and TA support. I do not monitor Slack continuously.
 - Email is for private or time-sensitive matters.
 - Moodle may be used occasionally for submissions or feedback, but Gradescope is the default for submissions.

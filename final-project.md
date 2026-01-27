@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Final Project
-nav_order: 7.5
+nav_order: 3
+parent: Deliverables
 description: Final Project (Computer Science Fair presentation) requirements and checkpoints.
 ---
 
