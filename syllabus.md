@@ -47,9 +47,13 @@ This semester we are using a classic textbook, *Database Systems: The Complete B
 Readings will be assigned by chapter and section using the second edition of Ullman–Widom.
 Other editions are acceptable; while page numbers and section numbering may vary slightly, the core content is the same.
 
+Occasionally, I will assign readings outside of Ullman–Widom, including scientific articles.
+
 To support your learning, we will also use [Gradiance](https://www.newgradiance.com), an online homework system that accompanies the textbook. Gradiance provides short, automatically graded problem sets aligned with specific sections of the book. These assignments are designed to help you check your understanding of core concepts and get immediate feedback as you work through the material.
 
 Gradiance assignments are meant to be low-stakes practice, not high-pressure exams. They complement (rather than replace) our in-class activities, projects, and reflections, which focus on applying database ideas in more open-ended and creative ways.
+
+The Gradiance class token will be posted on Moodle.
 
 As a note, *Database Systems: The Complete Book* is an older text, which comes with both strengths and limitations. One advantage is accessibility: you should be able to find a copy inexpensively (or possibly free). One limitation is that some examples reflect outdated assumptions, particularly around gender and family structure, that are not consistent with our world today (for example, assuming all families have a mother and a father, or treating sex and gender as interchangeable or binary). These examples are not central to the book’s pedagogical value. When they appear in assigned readings, we will either skip over them or explicitly flag them in advance.
 
