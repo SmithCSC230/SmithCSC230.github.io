@@ -1,9 +1,16 @@
 ---
-title: "Week 01"
+title: "Unit 1: Why Representations Matter"
 ---
 
 Jan 27
-: Introduction to Databases and Challenges in Data Management
+: Intro / Information != Data
 
 Jan 29
-: Review of Core Concepts (Set Theory)
+: Asking Questions with Fragmented Information
+
+Feb 3
+: Information Loss
+
+Feb 5
+: Lossy vs Lossless Representations
+: **Digital Shadows Discussion** [Downlaod Paper Here](https://link.springer.com/article/10.1007/s00146-025-02522-4)

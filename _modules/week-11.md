@@ -1,9 +1,15 @@
 ---
-title: "Week 11"
+title: "Unit 4: Real-World Constraints"
 ---
 
-Apr  7
-: Project: Concurrency Control
+Apr  2
+: Transactions & Concurrency
 
-Apr  9
-: Project Work Day
+Apr  7
+: Constraints in Practice
+
+Apr 9
+: Logging & Recovery
+
+Apr 14
+: **Project Work Day**

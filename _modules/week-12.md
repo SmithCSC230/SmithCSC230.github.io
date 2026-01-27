@@ -1,9 +1,12 @@
 ---
-title: "Week 12"
+title: "Unit 5: 21st Century Data"
 ---
 
-Apr 14
-: Project: Logging & Recovery
-
 Apr 16
-: Field Trip to MacLeish (Return by 5:30 PM)
+: Database Systems: Transformative != Appreciated
+
+Apr 21
+: Semi-Structured Data
+
+Apr 23
+: Graph Representations

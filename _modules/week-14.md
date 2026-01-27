@@ -1,9 +1,10 @@
 ---
-title: "Week 14"
+title: "Unit 6: Semester Wrap Up"
 ---
 
 Apr 28
-: Final Project Presentations
+: **Project Work Day**
 
 Apr 30
-: Final Project Presentations
+: Semester Wrap-Up
+: **Project Work Day**
