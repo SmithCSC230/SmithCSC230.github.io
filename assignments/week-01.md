@@ -4,7 +4,6 @@ title: "Week 01 Assignments"
 parent: Assignments
 grand_parent: Deliverables
 nav_order: 1
-nav_exclude: true
 ---
 
 # Week 01

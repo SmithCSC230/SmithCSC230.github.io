@@ -16,4 +16,4 @@ Assignments for this class take on a number of different flavors: reflections, p
 - [Gradiance](https://www.newgradiance.com/services/servlet/COTC)
 
 ## Weekly Assignments
-Use the table of contents above to navigate weekly assignment pages.
+Weekly assignment pages live in the sidebar under Assignments.
