@@ -15,5 +15,5 @@ Assignments for this class take on a number of different flavors: reflections, p
 - [Request a 72-hour extension here](https://docs.google.com/forms/d/e/1FAIpQLSdYfhC5fb3JWVF95fV02CaynFACyYjjUsCVjxDGlU9ZbEbaaQ/viewform?usp=header)
 - [Gradiance](https://www.newgradiance.com/services/servlet/COTC)
 
-## Weekly Assignments
-Weekly assignment pages live in the sidebar under Assignments.
+## Date-based Assignments
+Assignments are organized by due date in the sidebar under Assignments.
