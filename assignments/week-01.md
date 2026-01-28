@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Week 01 Assignment"
+title: "Week 01 Assignments"
 parent: Assignments
 grand_parent: Deliverables
 nav_order: 1

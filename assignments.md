@@ -16,8 +16,4 @@ Assignments for this class take on a number of different flavors: reflections, p
 - [Gradiance](https://www.newgradiance.com/services/servlet/COTC)
 
 ## Weekly Assignments
-
-{% assign weekly_pages = site.pages | where_exp: "p", "p.parent == 'Assignments'" | where_exp: "p", "p.grand_parent == 'Deliverables'" | sort: "nav_order" %}
-{% for p in weekly_pages %}
-- [{{ p.title }}]({{ p.url }})
-{% endfor %}
+Use the table of contents above to navigate weekly assignment pages.
