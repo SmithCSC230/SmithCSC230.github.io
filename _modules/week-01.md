@@ -14,4 +14,4 @@ Feb 3
 
 Feb 5
 : Lossy vs Lossless Representations
-: **Digital Shadows Discussion** [Downlaod Paper Here](https://link.springer.com/article/10.1007/s00146-025-02522-4)
+: **Digital Shadows Discussion** [Download Paper Here](https://link.springer.com/article/10.1007/s00146-025-02522-4)
