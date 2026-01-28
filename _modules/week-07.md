@@ -7,7 +7,7 @@ Mar 10
 
 Mar 12
 : Joining
-: **Take-Home Midterm Du Friday 11:59PM**{: .label }
+: **Take-Home Midterm Due Friday 11:59PM**{: .label }
 
 Mar 17
 : **Spring Break (no classes)**{: .label }
