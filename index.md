@@ -9,7 +9,7 @@ description: CSC 230 course homepage.
 
 Welcome to CSC 230. This site contains the syllabus, schedule, assignments, and course resources. Assignments are posted on [Gradescope](https://www.gradescope.com/courses/1239414).
 
-## Start here
+## Navigation
 
 - [Syllabus](syllabus.md)
 - [FAQ](faq.md)
