@@ -6,11 +6,12 @@ Jan 27
 : [Intro / Information != Data](https://www.science.smith.edu/~hrando/csc230/slides/L01-intro.pptx)
 
 Jan 29
-: Asking Questions with Fragmented Information
+: [Asking Questions with Fragmented Information](https://www.science.smith.edu/~hrando/csc230/slides/L02-fragmentedInfo.pptx)
 : [Submit Java Class Here](https://www.gradescope.com/courses/1239414/assignments/7552399)
 
 Feb 3
 : Information Loss
+: Readings & Reflection instructions are posted on Moodle
 
 Feb 5
 : Lossy vs Lossless Representations
