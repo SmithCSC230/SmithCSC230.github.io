@@ -28,7 +28,7 @@ title: "Unit 1: Why Representations Matter"
       <td>Feb 3 (Tues)</td>
       <td>Information Loss</td>
       <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L03-LossyEncodings.pptx">Slides</a></td>
-      <td><a href="/assignments/2026-02-03">Reading + Assignment</a></td>
+      <td><a href="/assignments/2026-02-03">Assignment</a></td>
     </tr>
     <tr>
       <td>Feb 5 (Thurs)</td>
