@@ -2,13 +2,63 @@
 title: "Unit 2: Conceptual Modeling"
 ---
 
-| Date | Title | Slides | Assignment |
-| --- | --- | --- | --- |
-| Feb 10 | Entities, Attributes, and Relationships | TBD | N/A |
-| Feb 12 | Cardinality & Participation | TBD | N/A |
-| Feb 17 | ER Modeling Workshop | TBD | N/A |
-| Feb 19 | Sets & Bags | TBD | N/A |
-| Feb 24 | From ER Diagram to Schema | TBD | N/A |
-| Feb 26 | Rally Day (Class Canceled) | N/A | N/A |
-| Mar 3 | Keys & Referential Integrity | TBD | N/A |
-| Mar 5 | Project Work Day | TBD | N/A |
+<table class="module-table">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+      <th>Slides</th>
+      <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Feb 10 (Tues)</td>
+      <td>Entities, Attributes, and Relationships</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Feb 12 (Thurs)</td>
+      <td>Cardinality &amp; Participation</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Feb 17 (Tues)</td>
+      <td>ER Modeling Workshop</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Feb 19 (Thurs)</td>
+      <td>Sets &amp; Bags</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Feb 24 (Tues)</td>
+      <td>From ER Diagram to Schema</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+    <tr class="no-class">
+      <td>Feb 26 (Thurs)</td>
+      <td>Rally Day (Class Canceled)</td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Mar 3 (Tues)</td>
+      <td>Keys &amp; Referential Integrity</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Mar 5 (Thurs)</td>
+      <td>Project Work Day</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+</table>
