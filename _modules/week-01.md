@@ -33,7 +33,7 @@ title: "Unit 1: Why Representations Matter"
     <tr>
       <td>Feb 5 (Thurs)</td>
       <td>Lossy vs Lossless Representations</td>
-      <td>Coming soon</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L04-DigitalShadows.pptx">Slides</a></td>
       <td><a href="/assignments/2026-02-05">Assignment</a></td>
     </tr>
   </tbody>

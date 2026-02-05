@@ -16,7 +16,7 @@ title: "Unit 2: Conceptual Modeling"
       <td>Feb 10 (Tues)</td>
       <td>Entities, Attributes, and Relationships</td>
       <td>TBD</td>
-      <td>N/A</td>
+      <td><a href="/assignments/2026-02-10">Assignment</a></td>
     </tr>
     <tr>
       <td>Feb 12 (Thurs)</td>
