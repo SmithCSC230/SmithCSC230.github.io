@@ -22,7 +22,7 @@ title: "Unit 2: Conceptual Modeling"
       <td>Feb 12 (Thurs)</td>
       <td>Cardinality &amp; Participation</td>
       <td>TBD</td>
-      <td>N/A</td>
+      <td><a href="/assignments/2026-02-10">Assignment</a></td>
     </tr>
     <tr>
       <td>Feb 17 (Tues)</td>
