@@ -8,7 +8,7 @@ description: Course policies and expectations.
 
 # Syllabus
 
-- Syllabus PDF (coming soon)
+- [Syllabus PDF](content/Syllabus-CSC230-S26.pdf)
 
 ## Course Information
 - CSC230, Spring 2026
