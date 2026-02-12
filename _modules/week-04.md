@@ -15,7 +15,7 @@ title: "Unit 2: Conceptual Modeling"
     <tr>
       <td>Feb 10 (Tues)</td>
       <td>Entities, Attributes, and Relationships</td>
-      <td>TBD</td>
+      <td><a href = "https://www.science.smith.edu/~hrando/csc230/slides/L05-DataModeling.pptx"></td>
       <td><a href="/assignments/2026-02-10">Assignment</a></td>
     </tr>
     <tr>
