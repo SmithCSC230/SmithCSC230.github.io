@@ -13,13 +13,13 @@ title: "Unit 2: Conceptual Modeling"
   </thead>
   <tbody>
     <tr>
-      <td>Feb 10 (Tues)</td>
+      <td>Feb 12 (Thurs)</td>
       <td>Entities, Attributes, and Relationships</td>
-      <td><a href = "https://www.science.smith.edu/~hrando/csc230/slides/L05-DataModeling.pptx"></td>
+      <td><a href ="https://www.science.smith.edu/~hrando/csc230/slides/L05-DataModeling.pptx"></td>
       <td><a href="/assignments/2026-02-10">Assignment</a></td>
     </tr>
     <tr>
-      <td>Feb 12 (Thurs)</td>
+      <td>Feb 17 (Tues)</td>
       <td>Cardinality &amp; Participation</td>
       <td>TBD</td>
       <td><a href="/assignments/2026-02-10">Assignment</a></td>
