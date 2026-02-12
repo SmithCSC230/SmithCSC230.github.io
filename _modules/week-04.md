@@ -12,10 +12,16 @@ title: "Unit 2: Conceptual Modeling"
     </tr>
   </thead>
   <tbody>
+      <tr>
+        <td>Feb 10 (Tues)</td>
+        <td>Class Canceled</td>
+        <td></td>
+        <td></td>
+      </tr>
     <tr>
       <td>Feb 12 (Thurs)</td>
       <td>Entities, Attributes, and Relationships</td>
-      <td><a href ="https://www.science.smith.edu/~hrando/csc230/slides/L05-DataModeling.pptx"></td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L05-DataModeling.pptx"></td>
       <td><a href="/assignments/2026-02-10">Assignment</a></td>
     </tr>
     <tr>
@@ -25,20 +31,14 @@ title: "Unit 2: Conceptual Modeling"
       <td><a href="/assignments/2026-02-10">Assignment</a></td>
     </tr>
     <tr>
-      <td>Feb 17 (Tues)</td>
+      <td>Feb 19 (Thurs)</td>
       <td>ER Modeling Workshop</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
     <tr>
-      <td>Feb 19 (Thurs)</td>
-      <td>Sets &amp; Bags</td>
-      <td>TBD</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
       <td>Feb 24 (Tues)</td>
-      <td>From ER Diagram to Schema</td>
+      <td>Sets &amp; Bags</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
@@ -56,7 +56,7 @@ title: "Unit 2: Conceptual Modeling"
     </tr>
     <tr>
       <td>Mar 5 (Thurs)</td>
-      <td>Project Work Day</td>
+      <td>Keys &amp; Referential Integrity</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
