@@ -12,16 +12,16 @@ title: "Unit 2: Conceptual Modeling"
     </tr>
   </thead>
   <tbody>
-      <tr>
-        <td>Feb 10 (Tues)</td>
-        <td>Class Canceled</td>
-        <td></td>
-        <td></td>
-      </tr>
+    <tr class="no-class">
+      <td>Feb 10 (Tues)</td>
+      <td>Class Canceled</td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
     <tr>
       <td>Feb 12 (Thurs)</td>
       <td>Entities, Attributes, and Relationships</td>
-      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L05-DataModeling.pptx"></td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L05-DataModeling.pptx">Slides</a></td>
       <td><a href="/assignments/2026-02-10">Assignment</a></td>
     </tr>
     <tr>
