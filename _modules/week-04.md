@@ -26,8 +26,8 @@ title: "Unit 2: Conceptual Modeling"
     </tr>
     <tr>
       <td>Feb 17 (Tues)</td>
-      <td>Cardinality &amp; Participation</td>
-      <td>TBD</td>
+      <td>Constraints</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L06-Constraints.pptx">Slides</a></td>
       <td><a href="/assignments/2026-02-10">Assignment</a></td>
     </tr>
     <tr>
