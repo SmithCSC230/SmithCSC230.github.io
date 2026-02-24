@@ -38,8 +38,8 @@ title: "Unit 2: Conceptual Modeling"
     </tr>
     <tr>
       <td>Feb 24 (Tues)</td>
-      <td>Sets &amp; Bags</td>
-      <td>TBD</td>
+      <td>Relational Model & Schemas</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L08-RelationalScheam.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
     <tr class="no-class">
@@ -56,7 +56,7 @@ title: "Unit 2: Conceptual Modeling"
     </tr>
     <tr>
       <td>Mar 5 (Thurs)</td>
-      <td>Keys &amp; Referential Integrity</td>
+      <td>Sets &amp; Bags</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
