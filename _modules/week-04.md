@@ -50,14 +50,14 @@ title: "Unit 2: Conceptual Modeling"
     </tr>
     <tr>
       <td>Mar 3 (Tues)</td>
-      <td>Keys &amp; Referential Integrity</td>
+      <td>Sets and Bags (Recording on Moodle)</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Mar 5 (Thurs)</td>
-      <td>Sets &amp; Bags</td>
-      <td>TBD</td>
+      <td>Getting started with SQL</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L10-DatabaseSchema.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
   </tbody>
