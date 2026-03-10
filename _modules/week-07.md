@@ -14,13 +14,13 @@ title: "Unit 3: Querying & Meaning"
   <tbody>
     <tr>
       <td>Mar 5 (Thurs)</td>
-      <td>Getting started with SQL</td>
+      <td>Getting started with SQL (DDL)</td>
       <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L10-DatabaseSchema.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Mar 10 (Tues)</td>
-      <td>SQL DDL Continued; Into to DML</td>
+      <td>SQL DDL Continued; Intro to DML</td>
       <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L11-QueryBasics.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
@@ -44,13 +44,13 @@ title: "Unit 3: Querying & Meaning"
     </tr>
     <tr>
       <td>Mar 24 (Tues)</td>
-      <td>Aggregation</td>
+      <td>Multi-Relation Queries/Aggregation</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Mar 26 (Thurs)</td>
-      <td>Unknowns &amp; three-valued logic</td>
+      <td>Ship It Exercise</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
