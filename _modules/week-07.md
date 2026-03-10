@@ -13,14 +13,20 @@ title: "Unit 3: Querying & Meaning"
   </thead>
   <tbody>
     <tr>
+      <td>Mar 5 (Thurs)</td>
+      <td>Getting started with SQL</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L10-DatabaseSchema.pptx">Slides</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>Mar 10 (Tues)</td>
-      <td>Intro SQL</td>
-      <td>TBD</td>
+      <td>SQL DDL Continued; Into to DML</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L11-QueryBasics.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Mar 12 (Thurs)</td>
-      <td>Joining; Take-Home Midterm Due Friday 11:59PM</td>
+      <td>Guest Speaker: Data Management</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
