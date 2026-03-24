@@ -22,7 +22,7 @@ title: "Unit 3: Querying & Meaning"
       <td>Mar 10 (Tues)</td>
       <td>SQL DDL Continued; Intro to DML</td>
       <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L11-QueryBasics.pptx">Slides</a></td>
-      <td>N/A</td>
+      <td><a href="/assignments/2026-03-10">Reading</a></td>
     </tr>
     <tr>
       <td>Mar 12 (Thurs)</td>
@@ -44,9 +44,9 @@ title: "Unit 3: Querying & Meaning"
     </tr>
     <tr>
       <td>Mar 24 (Tues)</td>
-      <td>Multi-Relation Queries/Aggregation</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L12-ComplexQueries.pptx">Slides</a></td>
       <td>TBD</td>
-      <td>N/A</td>
+      <td><a href="/assignments/2026-03-24">Assignment</a></td>
     </tr>
     <tr>
       <td>Mar 26 (Thurs)</td>
