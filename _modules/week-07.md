@@ -51,7 +51,7 @@ title: "Unit 3: Querying & Meaning"
     <tr>
       <td>Mar 26 (Thurs)</td>
       <td>Ship It Exercise</td>
-      <td>TBD</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L13-Aggregation.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
     <tr>
