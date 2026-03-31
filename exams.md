@@ -24,6 +24,12 @@ Please include some queries that I can try to write for your database! These sho
 - Equijoin and/or Theta join
 - Natural join
 
+## Data Generation
+
+Two options:
+- https://smith.campusgenai.org/c/new?agent_id=agent_wQzkghtFdbEIRJv6YYIlc
+
+
 ## Midterm Reflection Questions
 
 Please answer the following questions, writing around one paragraph per question. Your responses should focus on the mini-project we have been working on in class, in which you worked in groups to design a database related to a shared group interest.
