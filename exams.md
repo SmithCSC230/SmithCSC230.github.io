@@ -13,6 +13,17 @@ The take-home exam is due Monday, April 13 (at midnight). Please submit via mood
 - The questions you wrote that can be answered by querying your database
 - Responses to the reflection questions below.
 
+## Queries
+Please include some queries that I can try to write for your database! These should include:
+
+- A case where COUNT can be used
+- A case where SUM can be used
+- A case where MIN or MAX might be useful
+- A case where GROUP BY can be used
+- One with HAVING
+- Equijoin and/or Theta join
+- Natural join
+
 ## Midterm Reflection Questions
 
 Please answer the following questions, writing around one paragraph per question. Your responses should focus on the mini-project we have been working on in class, in which you worked in groups to design a database related to a shared group interest.
