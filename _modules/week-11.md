@@ -14,13 +14,13 @@ title: "Unit 4: Real-World Constraints"
   <tbody>
     <tr>
       <td>Apr 2 (Thurs)</td>
-      <td>Transactions &amp; Concurrency</td>
+      <td>Project Work + Query Optimization</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Apr 7 (Tues)</td>
-      <td>Constraints in Practice</td>
+      <td>Transactions &amp; Concurrency</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>

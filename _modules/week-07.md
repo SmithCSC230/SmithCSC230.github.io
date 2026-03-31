@@ -56,8 +56,8 @@ title: "Unit 3: Querying & Meaning"
     </tr>
     <tr>
       <td>Mar 31 (Tues)</td>
-      <td>Project Work Day</td>
-      <td>TBD</td>
+      <td>Joins + Project Intro</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L14-Joins.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
   </tbody>
