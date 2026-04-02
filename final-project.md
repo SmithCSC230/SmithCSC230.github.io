@@ -22,6 +22,10 @@ Each checkpoint will have its own submission instructions. See the course schedu
 - Final Project Submission + Demo (due 5/8 3pm)
 - Final Check-in Survey (due 5/8 3pm)
 
+## Group Assignments
+
+You can find [your group assignment here](https://docs.google.com/spreadsheets/d/1hybA2pHaavl0l5Au__z2JrZmzkBiT30aPxYjkdM0bZs/edit?usp=sharing)
+
 ## Checkpoints
 
 ### Initial Survey
