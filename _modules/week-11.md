@@ -14,9 +14,9 @@ title: "Unit 4: Real-World Constraints"
   <tbody>
     <tr>
       <td>Apr 2 (Thurs)</td>
-      <td>Project Work + Query Optimization</td>
-      <td>TBD</td>
-      <td>N/A</td>
+      <td>Normalization & Group Contract</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L15-Normalization.pptx">Slides</a></td>
+      <td><a href="/assignments/2026-03-31">Assignment</a></td>
     </tr>
     <tr>
       <td>Apr 7 (Tues)</td>
@@ -32,7 +32,7 @@ title: "Unit 4: Real-World Constraints"
     </tr>
     <tr>
       <td>Apr 14 (Tues)</td>
-      <td>Project Work Day</td>
+      <td>Query Optimizaton</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
