@@ -20,19 +20,19 @@ title: "Unit 4: Real-World Constraints"
     </tr>
     <tr>
       <td>Apr 7 (Tues)</td>
-      <td>Transactions &amp; Concurrency</td>
-      <td>TBD</td>
+      <td>Checks and Triggers</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L16-Triggers.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Apr 9 (Thurs)</td>
-      <td>Logging &amp; Recovery</td>
+      <td>Query Optimization</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Apr 14 (Tues)</td>
-      <td>Query Optimizaton</td>
+      <td>Working Day: Meet with Stakeholders</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
