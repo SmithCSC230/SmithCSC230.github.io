@@ -11,11 +11,24 @@ Welcome to CSC 230. This site contains the syllabus, schedule, assignments, and 
 
 ## Navigation
 
+Course Basics:
+
 - [Syllabus](syllabus.md)
 - [FAQ](faq.md)
 - [Contact](contact.md)
-- [Schedule](schedule.md)
-- [Calendar](calendar.md)
+
+Course Organization:
+
+- [Weekly Schedule](schedule.md)
+- [Topic Calendar](calendar.md)
+
+Assignments:
+
 - [Assignments](assignments.md)
 - [Exams](exams.md)
+- [Final Project](final-project.md)
+
+Resources:
+
 - [Resources](resources.md)
+- [Previous Final Projects](previous.md)
