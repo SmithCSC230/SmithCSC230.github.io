@@ -14,10 +14,10 @@ For the final project, students work with a community stakeholder to address rea
 ## What to submit
 Each checkpoint will have its own submission instructions. See the course schedule and announcements for due dates and links.
 
-- [Initial Project Survey](https://docs.google.com/forms/d/e/1FAIpQLSdmXrz9GIy3HpouofayuO6fLy35X6qxWZI2x0YHAK3qisAkvw/viewform?usp=header) due April 1 (11:59PM)
-- [Group Contract](https://docs.google.com/document/d/1nRt59XIuNAO05Xu2-GdsFvqTUYs437y5veAlv2QpUDc/edit?usp=sharing) due April 3 (11:59PM)
-- Initial Brainstorm (due 4/10)
-- Project Proposal (due 4/19)
+- [Initial Project Survey](https://docs.google.com/forms/d/e/1FAIpQLSdmXrz9GIy3HpouofayuO6fLy35X6qxWZI2x0YHAK3qisAkvw/viewform?usp=header) (due 4/1)
+- [Group Contract](https://docs.google.com/document/d/1nRt59XIuNAO05Xu2-GdsFvqTUYs437y5veAlv2QpUDc/edit?usp=sharing) (due 4/3)
+- [Initial Brainstorm](https://www.gradescope.com/courses/1239414/assignments/7965102) (due 4/10)
+- [Project Proposal](https://www.gradescope.com/courses/1239414/assignments/7963197) (due 4/19)
 - Team Dynamics Check-in (due 4/21)
 - Final Project Submission + Demo (due 5/8 3pm)
 - Final Check-in Survey (due 5/8 3pm)
