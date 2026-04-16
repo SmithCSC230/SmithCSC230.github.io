@@ -18,7 +18,7 @@ Each checkpoint will have its own submission instructions. See the course schedu
 - [Group Contract](https://docs.google.com/document/d/1nRt59XIuNAO05Xu2-GdsFvqTUYs437y5veAlv2QpUDc/edit?usp=sharing) (due 4/3)
 - [Initial Brainstorm](https://www.gradescope.com/courses/1239414/assignments/7965102) (due 4/10)
 - [Project Proposal](https://www.gradescope.com/courses/1239414/assignments/7963197) (due 4/19)
-- Team Dynamics Check-in (due 4/21)
+- [Team Dynamics Check-in](https://docs.google.com/forms/d/e/1FAIpQLSc3LaxAJihGGo3L2iDMhyyDEF41X9o8pACXEeHX93X-wUNg5Q/viewform?usp=header) (due 4/21)
 - Final Project Submission + Demo (due 5/8 3pm)
 - Final Check-in Survey (due 5/8 3pm)
 
