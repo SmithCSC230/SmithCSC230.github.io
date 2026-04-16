@@ -1,5 +1,5 @@
 ---
-title: "Unit 5: 21st Century Data Management"
+title: "Unit 5: Optimization"
 ---
 
 <table class="module-table">
@@ -13,20 +13,26 @@ title: "Unit 5: 21st Century Data Management"
   </thead>
   <tbody>
     <tr>
-      <td>Apr 16 (Thurs)</td>
-      <td>Database Systems: Transformative != Appreciated</td>
-      <td>TBD</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
       <td>Apr 21 (Tues)</td>
-      <td>Semi-Structured Data</td>
+      <td>Transactions & Concurrency (+ group work)</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Apr 23 (Thurs)</td>
-      <td>Graph Representations</td>
+      <td>Logging & Recovery (+ group work)</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Apr 28 (Tues)</td>
+      <td>Indexing (+ group work)</td>
+      <td>TBD</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Apr 30 (Thurs)</td>
+      <td>Databases & Computer Systems | Semester Wrap-Up</td>
       <td>TBD</td>
       <td>N/A</td>
     </tr>
