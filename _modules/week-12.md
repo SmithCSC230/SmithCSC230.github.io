@@ -15,7 +15,7 @@ title: "Unit 5: Optimization"
     <tr>
       <td>Apr 21 (Tues)</td>
       <td>Transactions & Concurrency (+ group work)</td>
-      <td>TBD</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L17-Transactions.pptx">Slides</a></td></td>
       <td>N/A</td>
     </tr>
     <tr>
