@@ -20,8 +20,8 @@ title: "Unit 5: Optimization"
     </tr>
     <tr>
       <td>Apr 23 (Thurs)</td>
-      <td>Logging & Recovery (+ group work)</td>
-      <td>TBD</td>
+      <td>Disk Storage (+ group work)</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L18-Disk.pptx">Slides</a></td></td>
       <td>N/A</td>
     </tr>
     <tr>
