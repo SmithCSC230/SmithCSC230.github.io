@@ -27,7 +27,7 @@ title: "Unit 5: Optimization"
     <tr>
       <td>Apr 28 (Tues)</td>
       <td>Indexing (+ group work)</td>
-      <td>TBD</td>
+      <td><a href="https://www.science.smith.edu/~hrando/csc230/slides/L19-Indexing_short.pptx">Slides</a></td>
       <td>N/A</td>
     </tr>
     <tr>
