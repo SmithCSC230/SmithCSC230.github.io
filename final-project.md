@@ -19,8 +19,8 @@ Each checkpoint will have its own submission instructions. See the course schedu
 - [Initial Brainstorm](https://www.gradescope.com/courses/1239414/assignments/7965102) (due 4/10)
 - [Project Proposal](https://www.gradescope.com/courses/1239414/assignments/7963197) (due 4/19)
 - [Team Dynamics Check-in](https://docs.google.com/forms/d/e/1FAIpQLSc3LaxAJihGGo3L2iDMhyyDEF41X9o8pACXEeHX93X-wUNg5Q/viewform?usp=header) (due 4/21)
-- Final Project Submission + Demo (due 5/8 3pm)
-- Final Check-in Survey (due 5/8 3pm)
+- [Final Project Submission + Demo (due 5/8 3pm)](https://moodle.smith.edu/mod/assign/view.php?id=1447045)
+- [Final Check-in Survey](https://docs.google.com/forms/d/e/1FAIpQLSetQSWB9uIEM7B2eaZoDA_0Alu5fgCiuKJLmNAx5LrT4DLHJg/viewform?usp=header) (due 5/8 3pm)
 
 ## Group Assignments
 
